@@ -21,7 +21,7 @@ a, a#selected {
 }
 
 a:hover {
-    color: gray;
+    color: gray!important;
 }
 
 header a, footer a {
