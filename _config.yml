@@ -1,13 +1,13 @@
 # Site settings
-title: blog title
-email: me@mysite.org
-description: "Really cool blog about ... something"
-baseurl: "/lawyer"
-url: "http://mysite.org"
-twitter_username: user
-github_username: user
+title: Loose Pages
+email: apocryphalauthor@gmail.com
+description: "notes and null pointers"
+baseurl: ""
+url: "aauthor.github.io"
+twitter_username: aauthor
+github_username: aauthor
 disqus_username: false
-isso_domain: comments.mysite.org
+isso_domain: false
 
 # Build settings
 markdown: redcarpet
