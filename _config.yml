@@ -19,4 +19,5 @@ defaults:
     scope:
       path: ""
     values:
+      author: "Tom Dunlap"
       layout: "default"
