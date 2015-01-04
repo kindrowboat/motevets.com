@@ -6,22 +6,22 @@ categories: DIY
 
 ---
 
-First you might ask "how does one get wax on their monitor?"  A valid question.
+First you might ask, "How does one get wax on their monitor?"  A valid question.
 In my case, I had a taper candle on my desk, and I blew it out right before bed.
 When I awoke, I found a splatter of wax from the candle in the bottom left
 corner of my LCD.  This post will talk about the steps I took to safely remove
-the wax from the montitor without damaging the surface or liquid crystals of the
+the wax from the monitor without damaging the surface or liquid crystals of the
 display.
 
 _Note that this guide is intended for soft-surface LCD monitors (the kind that
 are not glass/plastic covered and make distorted colors when you press on the
-screen._
+screen.)_
 
 <!--more-->
 
 **Inspired by Mom**
 
-A tried and prove method of removing max from fabric is to put a paper towel on
+A tried and prove method of removing wax from fabric is to put a paper towel on
 top of the stained area and then apply a hot iron onto the paper towel.  This
 melts the wax which is absorbed into the towel.  While this does work wonders on
 fabric, there are some hopefully obvious reasons why this is a bad idea with an
