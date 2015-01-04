@@ -1,6 +1,6 @@
 ---
 
-title:  "Getting Candle Wax of an LCD Monitor"
+title:  "Getting Candle Wax Off an LCD Monitor"
 date:   2015-01-03 22:16:00
 categories: DIY
 
