@@ -16,8 +16,12 @@ people trying to hammer out the problem of how to coordinate fragmented,
 part-time, and/or remote teams in an agile work place.  The problem, I think, is
 that it's not possible, or at least it's very hard. Think: trying to jam a large
 rectangular prism through a small circular hole. You might make it work, but
-you're probably not
-going to like it.
+you're probably not going to like it.
+
+But that's only thinking about the problem with the 8 hour work week as a
+constant.  Read on to see a proposed way to work agile, part-time.
+
+<!--more-->
 
 Agile Buy In
 ------------
