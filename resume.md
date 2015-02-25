@@ -5,9 +5,16 @@ title: "Resume"
 Tom Dunlap
 ==========
 
-> Current graduate (non-matriculated) pre-medicine, B.S. Computer Science.
-> Seeking part-time or contract Ruby, DBA, or Linux DevOps opportunities in an
-> open source supporting, test driven development environment.
+> I am currently enrolled as a part-time, non-matriculated graduate student
+> studying pre-medical sciences. I hold a B.S. in computer science from Purdue
+> University.
+>
+> Currently, I am seeking a summer fellowship or internship focused on learning
+> "alternative" (read: awesome) working/programing practices, contributing to
+> open source, and increasing my Linux mojo.
+>
+> I am into [intentional community living][mac house], [flexagons], and learning
+> for the sake of learning.
 
 Education
 ---------
@@ -23,26 +30,27 @@ Education
 Work Experience
 ---------------
 
-**Independent Contractor, RevSpring Inc.** (6 months)
+**Independent Contractor, Tom Dunlap LLP.** (since August 2014)
 
-Programming Ruby-on-Rails business tier for health care billing and electronic
-record tracking. Instructed and coached test driven development.  Acting as
-liaison between national offices and integrating disparate technology of merged
-companies in Cininnati, OH and Phoenix, AZ.
 
-**Software Developer, Roadtrippers** (1 year)
+Clients include: CanDo and RevSpring Inc. Programming Ruby-on-Rails business
+tier for health care billing and electronic record tracking. Instructed and
+coached test driven development.  Acting as liaison between national offices and
+integrating disparate technology of merged companies in Cininnati, OH and
+Phoenix, AZ.
+
+**Software Developer, Roadtrippers** (April 2013 through May 2014)
 
 Back end Ruby-on-Rails and dev-ops developer for successful travel planning
 start-up in Cincinnati.  Orchestrated migration from MongoDB to PostGIS
 including data move, and ODM/ORM code replacement.
 
-**Independent Contractor, Mediafuel** (1 year, 6 months)
+**Independent Contractor, Mediafuel** (May 2011 through December 2012)
 
 Dev-ops server administration, mySQL database administration, and PHP business
 tier development for advertising company in Fishers, IN.
 
-**Technology Consultant, Ransburg Scout Reservation**
-(15 months, seasonal)
+**Technology Consultant, Ransburg Scout Reservation** (Seasonally 2005-2014)
 
 PostgreSQL database administration, network administration, hardware
 installation for Boy Scout summer camp in Bloomington, IN.
@@ -51,7 +59,7 @@ installation for Boy Scout summer camp in Bloomington, IN.
 Technical Experience
 --------------------
 
-![xkcd: Tasks by Randall Munroe](http://imgs.xkcd.com/comics/tasks.png)
+![xkcd: API by Randall Munroe](http://imgs.xkcd.com/comics/api.png)
 
 ### Open Source
 Contributed to Ruby gem development including: activerecord-postgis-adapter,
@@ -65,7 +73,7 @@ Theater of Cincinnati. Github: aauthor.
 Researched statistical models of pose estimation using Active Shape Models
 implemented in C++/OpenCV at IUPUI.
 
-###Technical Skills
+### Technical Skills
 **Ruby:** three years of Ruby-on-Rails, Chef, and Ruby gem programming for
 open source and proprietary projects.
 
@@ -100,7 +108,6 @@ Highest honor given to graduating student in Computer Science program.
 -  Staff Member of the Year (Ransburg Scout Reservation)
 -  Scholar with Distinction (AP College Board)
 
-
 References
 ----------
 
@@ -110,3 +117,6 @@ Omitted for privacy. Available upon request.
 
 <apocryphalauthor@gmail.com> • 317 753 5524  
 334 McGregegor Ave., Cincinnati, OH 45219
+
+[mac house]: http://www.ic.org/directory/the-mac-house/
+[flexagons]: http://en.wikipedia.org/wiki/Flexagon
