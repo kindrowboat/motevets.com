@@ -1,17 +1,13 @@
 ---
-title: "Resume"
+layout: page
+title: Tom Dunlap
+permalink: /tom-dunlap/
 ---
 
 Tom Dunlap
 ==========
 
-> I am currently enrolled as a part-time, non-matriculated graduate student
-> studying pre-medical sciences. I hold a B.S. in computer science from Purdue
-> University.
->
-> Currently, I am seeking a summer fellowship or internship focused on learning
-> "alternative" (read: awesome) working/programing practices, contributing to
-> open source, and increasing my Linux mojo.
+> I am currently a senior software engineer consultant with Pivotal Labs.
 >
 > I am into [intentional community living][mac house], [flexagons], and learning
 > for the sake of learning.
@@ -19,19 +15,28 @@ Tom Dunlap
 Education
 ---------
 
-*2014-2016 (expected)*  
+*2014-2015* 
 **GnM, Pre-medicine**; University of Cincinnati (Cincinnati)  
-*4.0 GPA; completing courses not covered in undergrad required for medical school*
+*4.0 GPA; completed courses not covered in undergrad in preparation for for medical school*
 
-*2007-2012*  
+*2009-2012*  
 **BSc, Computer Science**; Purdue University (Indianapolis)  
-*3.9 GPA; with highest honors; Mathematics minor*
+*3.9 GPA; graduated with highest honors; Mathematics minor*
+
+*2007-2008*
+**Ancient Greek**; Cincinnati Christian University (Cincinnati)
+*4.0 GPA; Foster Scholarship grant*
 
 Work Experience
 ---------------
 
-**Independent Contractor, Tom Dunlap LLP.** (since August 2014)
+**Senior Software Engineer, Pivotal Labs** (since May 2015)
 
+Anchor engineer of the Pivotal Cloud Foundry Billing and Account Managment
+team.  Using skill like: agile planning, test driven development, extreme
+programming, and Ruby-on-Rails.
+
+**Independent Contractor, Tom Dunlap LLP.** (August 2014 through May 2015)
 
 Clients include: CanDo and RevSpring Inc. Programming Ruby-on-Rails business
 tier for health care billing and electronic record tracking. Instructed and
@@ -107,16 +112,6 @@ Highest honor given to graduating student in Computer Science program.
 -  Foster Scholarship (Cincinnati Christian University)
 -  Staff Member of the Year (Ransburg Scout Reservation)
 -  Scholar with Distinction (AP College Board)
-
-References
-----------
-
-Omitted for privacy. Available upon request.
-
-----
-
-<apocryphalauthor@gmail.com> • 317 753 5524  
-334 McGregegor Ave., Cincinnati, OH 45219
 
 [mac house]: http://www.ic.org/directory/the-mac-house/
 [flexagons]: http://en.wikipedia.org/wiki/Flexagon

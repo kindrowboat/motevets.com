@@ -1,17 +1,23 @@
 ---
-layout: blank
+layout: default
 ---
-      {% for page in site.posts %}
-      <article>
-        <header>
-          <h1><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-          <p>{% if page.author %}<!--{{ page.author }} • -->{% endif %}{% if page.date %}<time>{{ page.date | date: "%b %-d, %Y" }}</time>{% endif %}{% if page.categories %} • {{ page.categories | join: ','}}{% endif %}</p>
-        </header>
-        <div>
-          {{ page.excerpt }}
-        </div>
-        <footer>
-          <a href="{{ page.url | prepend: site.baseurl }}">read more</a>
-        </footer>
-      </article>
-      {% endfor %}
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

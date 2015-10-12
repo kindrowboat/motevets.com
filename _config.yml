@@ -1,23 +1,12 @@
 # Site settings
 title: Loose Pages
-email: apocryphalauthor@gmail.com
-description: "notes and null pointers"
-baseurl: ""
-url: "aauthor.github.io"
+email: tom@aauthor.space
+description: > # this means to ignore newlines until "baseurl:"
+  notes and null pointers
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "aauthor.space" # the base hostname & protocol for your site
 twitter_username: aauthor
-github_username: aauthor
-disqus_username: false
-isso_domain: false
+github_username:  aauthor
 
 # Build settings
-markdown: redcarpet
-permalink: /:title/
-excerpt_separator: "<!--more-->"
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      author: "Tom Dunlap"
-      layout: "default"
+markdown: kramdown
