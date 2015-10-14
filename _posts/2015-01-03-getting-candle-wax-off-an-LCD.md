@@ -22,7 +22,7 @@ screen.)_
 
 **Inspired by Mom**
 
-A tried and prove method of removing wax from fabric is to put a paper towel on
+A tried-and-proven method of removing wax from fabric is to put a paper towel on
 top of the stained area and then apply a hot iron onto the paper towel.  This
 melts the wax which is absorbed into the towel.  While this does work wonders on
 fabric, there are some hopefully obvious reasons why this is a bad idea with an
