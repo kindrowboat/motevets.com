@@ -1,7 +1,8 @@
 ---
 
-title:  "Connecting to University of Cincinnati's Securewireless with netctl"
-date:   2015-01-13 17:14:00
+layout:     post
+title:      "Connecting to University of Cincinnati's Securewireless with netctl"
+date:       2015-01-13 17:14:00
 categories: linux
 
 ---
