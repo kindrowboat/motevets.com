@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Tom Dunlap
-permalink: /tom-dunlap/
+subtitle: Professional
+permalink: /about/
 ---
-
-Tom Dunlap
-==========
 
 > I am currently a senior software engineer consultant with Pivotal Labs.
 >

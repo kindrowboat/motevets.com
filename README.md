@@ -1,14 +1,51 @@
-Contrast
-========
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kronik3r/daktilo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-Lightweight Jekyll theme
+# Daktilo
+Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
- - mobile first
- - syntax highlighting
- - automatic [disqus](https://disqus.com/) / [isso](http://posativ.org/isso/) integration
+# More info and Live preview
+[Click here](http://daktilo.github.io/) to see the theme in action.
 
-Released under *public domain*.
+# Features
+- Fully responsive
+- [Disqus](https://disqus.com/) integration for comments.
+- Google Analytics integration.
+- Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
+- Support for categories.
+- Font-Awesome Icons.
+- Optimized for SEO.
+- Coolest [404 page ever](http://electrik-frog.com/daktilo/404.html).
 
-**Screenshot:**
+# How to use it
+Start by cloning the repository, then check the `_config.yml` file and change it accordingly.
+Note that the `title` property is what will be displayed as logo.
 
-![screenshot](https://cloud.githubusercontent.com/assets/4943215/5554828/5d4954f0-8c79-11e4-825c-7423f5da39b0.png)
+Finally execute `jekyll serve --watch` and head to [localhost:4000](http://127.0.0.1:4000) to see the result.
+
+# Using categories
+Categories are little bit tricky. Please make sure to do the following for each category:
+
+- Create a file within `categories` folder with the name of your category
+For example let's say that we have a category called `An Awesome Category` you will need to add an `an-awesome-category.html` file with this content:
+
+``` html
+---
+layout: category
+category: an-awesome-category
+permalink: /categories/an-awesome-category/
+---
+
+```
+
+- Create an entry inside `_data/categories.yml`
+
+``` html
+- slug: an-awesome-category
+  name: An Awesome Category
+```
+
+- Then you will see it in the footer in the `Explore` section.
+
+# License
+
+The contents of this repository is licensed under [The MIT License.](https://opensource.org/licenses/MIT)

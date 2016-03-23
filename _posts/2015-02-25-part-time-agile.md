@@ -3,7 +3,7 @@
 layout:     post
 title:      "Idea for Part-time Agile Development Shop"
 date:       2015-02-25 10:34:00
-categories: agile help-wanted
+categories: life
 
 ---
 
