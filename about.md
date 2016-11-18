@@ -5,10 +5,9 @@ subtitle: Professional
 permalink: /about/
 ---
 
-> I am currently a senior software engineer consultant with Pivotal Labs.
+> Currently an engineering a process consultant.
 >
-> I am into [intentional community living][mac house], [flexagons], and learning
-> for the sake of learning.
+> Into intentional community living, [flexagons], and learning and [roller derby][BAD].
 
 Education
 ---------
@@ -22,13 +21,19 @@ Education
 *3.9 GPA; graduated with highest honors; Mathematics minor*
 
 *2007-2008*
-**Ancient Greek**; Cincinnati Christian University (Cincinnati)
+**Ancient Greek**; Cincinnati Christian University (Cincinnati)  
 *4.0 GPA; Foster Scholarship grant*
 
 Work Experience
 ---------------
 
-**Senior Software Engineer, Pivotal Labs** (since May 2015)
+**Independent Consultant, Tom Dunlap LLP. (April 2016 through January 2017)**
+
+Consulted on NodeJS API for integrating a front-end with Docusign. Created
+ReactJS front-end for land inventory management application. Taught TDD, agile
+planning, and extreme programming to client engineers and novice engineers.
+
+**Senior Software Engineer, Pivotal Labs** (May 2015 through April 2016)
 
 Anchor engineer of the Pivotal Cloud Foundry Billing and Account Managment
 team.  Using skill like: agile planning, test driven development, extreme
@@ -77,23 +82,24 @@ Researched statistical models of pose estimation using Active Shape Models
 implemented in C++/OpenCV at IUPUI.
 
 ### Technical Skills
-**Ruby:** three years of Ruby-on-Rails, Chef, and Ruby gem programming for
+**Ruby:** four years of Ruby-on-Rails, Chef, and Ruby gem programming for
 open source and proprietary projects.
+
+**Javascript (NodeJS and ReactJS):** four years Javascript, most recently with
+NodeJS and ReactJS.  Also experience with Backbone and jQuery.
 
 **Database programming/administration:** six years experience administering
 and programming for (in order of preference): postgreSQL (and postGIS), mongoDB,
 mySQL, Oracle, Microsoft SQL Server.
 
-**RESTful API design:** spoke at API Craft Conference, have assisted many
-projects in planning and implementing a semantic, RESTful API.  Currently
-interested in hypermedia APIs.
+**RESTful API design:** speaker at API Craft Conference, assisted many
+projects in planning and implementing semantic, RESTful APIs.
 
-**Linux server administration:** 2.5 years experience maintaining and
+**Linux server administration:** 3.5 years experience maintaining and
 programming automated deployment of (local) development virtual machines and
 production Gentoo, Debian, CentOS, and Ubuntu Linux environments.
 
-**Working knowledge of:** Python, Shell scripting, Javascript (CoffeeScript,
-jQuery, Backbone), CSS3/HTML5, PHP, and C/C++.
+**Working knowledge of:** Python, Shell scripting, PHP, Java, and C/C++.
 
 Recognitions
 ------------
@@ -106,7 +112,7 @@ Highest honor given to graduating student in Computer Science program.
 
 **Other Awards:**
 
--  Presidents List (Purdue University Indianapolis)
+-  President's List (Purdue University Indianapolis)
 -  Foster Scholarship (Cincinnati Christian University)
 -  Staff Member of the Year (Ransburg Scout Reservation)
 -  Scholar with Distinction (AP College Board)
