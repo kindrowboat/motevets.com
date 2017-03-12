@@ -5,9 +5,7 @@ subtitle: Professional
 permalink: /about/
 ---
 
-> Currently an engineering a process consultant.
->
-> Into intentional community living, [flexagons], and learning and [roller derby][BAD].
+> Currently an engineering a process consultant. Into intentional community living, [flexagons], learning, and [roller derby][BAD].
 
 Education
 ---------
@@ -27,9 +25,9 @@ Education
 Work Experience
 ---------------
 
-**Independent Consultant, Tom Dunlap LLP. (April 2016 through January 2017)**
+**Founder, KiwiDonut LLP. (April 2016 through January 2017)**
 
-Consulted on NodeJS API for integrating a front-end with Docusign. Created
+Lead a team of engineers consulting on NodeJS API for integrating a front-end with Docusign. Created
 ReactJS front-end for land inventory management application. Taught TDD, agile
 planning, and extreme programming to client engineers and novice engineers.
 
@@ -119,3 +117,4 @@ Highest honor given to graduating student in Computer Science program.
 
 [mac house]: http://www.ic.org/directory/the-mac-house/
 [flexagons]: http://en.wikipedia.org/wiki/Flexagon
+[bad]: http://www.bayareaderby.com/
