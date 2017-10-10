@@ -33,9 +33,9 @@ planning, and extreme programming to client engineers and novice engineers.
 
 **Senior Software Engineer, Pivotal Labs** (May 2015 through April 2016)
 
-Anchor engineer of the Pivotal Cloud Foundry Billing and Account Managment
-team.  Using skill like: agile planning, test driven development, extreme
-programming, and Ruby-on-Rails.
+Anchor engineer of the Pivotal Cloud Foundry Billing and Account Management
+team.  Using skills such as: agile planning, test driven development, extreme
+programming, and Ruby on Rails.
 
 **Independent Contractor, Tom Dunlap LLP.** (August 2014 through May 2015)
 
@@ -53,7 +53,7 @@ including data move, and ODM/ORM code replacement.
 
 **Independent Contractor, Mediafuel** (May 2011 through December 2012)
 
-Dev-ops server administration, mySQL database administration, and PHP business
+Dev-ops server administration, MySQL database administration, and PHP business
 tier development for advertising company in Fishers, IN.
 
 **Technology Consultant, Ransburg Scout Reservation** (Seasonally 2005-2014)
@@ -73,7 +73,7 @@ alchemy, and her.  Wrote many open source chef cookbooks for server
 administration.  Contributed to testing, documentation, and package maintenance
 of many Linux distributions (currently Arch Linux).  Rapidly constructed
 Ruby-on-Rails distributed bar-tab tracking software used by non-profit Know
-Theater of Cincinnati. Github: aauthor.
+Theater of Cincinnati. GitHub: motevets.
 
 ###Research
 Researched statistical models of pose estimation using Active Shape Models
