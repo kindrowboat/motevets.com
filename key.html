@@ -35,4 +35,4 @@ lpass login $LPASS_USER
 echo "Writing key $KEY_NAME to temporary file $TEMP_CERT_FILE"
 lpass show --notes "$KEY_NAME" > "$TEMP_CERT_FILE"
 echo "Adding SSH key $KEY_NAME"
-ssh-add "$TEMP_CERT_FILE"
+ssh-add -t 28800 "$TEMP_CERT_FILE"
