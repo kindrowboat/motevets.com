@@ -31,7 +31,7 @@ onexit() {
 
 trap onexit EXIT
 
-lpass login $LPASS_USER
+LPASS_DISABLE_PINENTRY=1 lpass login $LPASS_USER
 echo "Writing key $KEY_NAME to temporary file $TEMP_CERT_FILE"
 lpass show --notes "$KEY_NAME" > "$TEMP_CERT_FILE"
 echo "Adding SSH key $KEY_NAME"
