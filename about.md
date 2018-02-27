@@ -75,7 +75,7 @@ of many Linux distributions (currently Arch Linux).  Rapidly constructed
 Ruby-on-Rails distributed bar-tab tracking software used by non-profit Know
 Theater of Cincinnati. GitHub: motevets.
 
-###Research
+### Research
 Researched statistical models of pose estimation using Active Shape Models
 implemented in C++/OpenCV at IUPUI.
 
