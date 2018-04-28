@@ -8,7 +8,7 @@ url: "motevets.com" # the base hostname & protocol for your site
 author:
   fullname: Tome Dunlap
   github: motevets
-  twitter: motevets
+  # twitter: motevets
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
