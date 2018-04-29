@@ -3,7 +3,7 @@ title: Loose Pages
 description: >
   notes and null pointers
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "motevets.com" # the base hostname & protocol for your site
+url: "http://motevets.com" # the base hostname & protocol for your site
 
 author:
   fullname: Tome Dunlap
