@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tom Dunlap
-subtitle: Professional
+subtitle: Professional Human
 permalink: /resume/
 ---
 
