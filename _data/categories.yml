@@ -1,5 +1,6 @@
 - slug: life
   name: life
-
 - slug: linux
   name: linux
+- slug: projects
+  name: projects
