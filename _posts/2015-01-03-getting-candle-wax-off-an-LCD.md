@@ -46,8 +46,8 @@ It's a pretty straight forward process:
 1. keep holding the dryer in place for about thirty seconds
 1. while still aiming the dryer at the wax, with your other hand, begin wiping
    the affected area gently with the moist rag
-1. keep wiping the area gently, re-wetting the cloth if it dries out until all
-   the wax has been cleaner
+1. keep wiping the area gently, re-wetting the cloth if it dries out, until all
+   the wax has been cleared
 
 That's it, pretty simple!  Do not rush by turning the dryer up to high or wiping
 harder as the LCD screen is fragile and high heat could damage the crystals in
