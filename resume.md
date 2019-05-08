@@ -5,7 +5,10 @@ subtitle: Professional Human
 permalink: /resume/
 ---
 
-> Currently an engineering manager at [Pivotal Cloud Foundry]. Into [flexagons], continuous learning, recreational programming, and [roller derby][BAD].
+> Currently an engineering manager at [Pivotal Cloud Foundry]. Interested in [flexagons], continuous learning, recreational programming, and [roller derby][BAD].
+
+Website: | [http://motevets.com](http://motevets.com)
+Email:   | hello@motevets.com
 
 Education
 ---------
@@ -31,10 +34,10 @@ Work Experience
 
 **Engineering Manager, Pivotal Software.** (2017–present)
 
-Lead team of five engineers across multiple projects.
+Lead team of seven engineers across multiple projects.
 
 Pair programmed with teams creating cloud platform automation software using
-React.js, Ruby on Rails, and Bash. 
+React.js, Ruby on Rails, BASH, and Go. 
 
 **Founder, KiwiDonut LLP.** (2016–2017)
 
@@ -51,15 +54,15 @@ programming.
 
 **Independent Contractor, Tom Dunlap LLP.** (2014–2015)
 
-Clients include: CanDo and RevSpring Inc. Programming Ruby-on-Rails business
+Clients include: CanDo and RevSpring Inc. Programmed Ruby on Rails business
 tier for health care billing and electronic record tracking. Instructed and
-coached test driven development.  Acting as liaison between national offices and
-integrating disparate technology of merged companies in Cininnati, OH and
+coached test driven development.  Acted as liaison between national offices and
+integrating disparate technology of merged companies in Cincinnati, OH and
 Phoenix, AZ.
 
 **Software Developer, Roadtrippers.** (2013–2014)
 
-Back end Ruby-on-Rails and dev-ops developer for successful travel planning
+Back end Ruby on Rails and dev-ops developer for successful travel planning
 start-up in Cincinnati.  Orchestrated migration from MongoDB to PostGIS
 including data move, and ODM/ORM code replacement.
 
@@ -71,7 +74,7 @@ tier development for advertising company in Fishers, IN.
 **Technology Consultant, Ransburg Scout Reservation.** (seasonally 2005–2014)
 
 PostgreSQL database administration, network administration, hardware
-installation for Boy Scout summer camp in Bloomington, IN.
+installation for Boy Scouts of America summer camp in Bloomington, IN.
 
 
 Technical Experience
@@ -102,7 +105,6 @@ Researched statistical models of pose estimation using Active Shape Models
 implemented in C++/OpenCV at Purdue University.
 
 ### Technical Skills
-
 #### Mastery
 * Ruby  
   * Rails
@@ -121,15 +123,27 @@ implemented in C++/OpenCV at Purdue University.
 * Database programming/administration  
   * postgreSQL, postGIS, mongoDB, mySQL
   * Oracle, Microsoft SQL Server
+* Go
 * PHP
-* Bash
+* BASH
 
 #### Familiar
 * Python
 * Java
+* Kotlin
 * C
 * C++
 * Matlab
+
+### Executive Skills
+* Management
+  * mentoring and advocating for under-represented minorities in software engineering
+  * helping define career goals and tracking progress
+  * collecting and delivering feedback
+  * teaching technical and executive skills to reports and peers
+* Facilitation
+  * highly technical, decision oriented meetings
+  * no blame, discovery and growth oriented post-incident meetings
 
 Recognitions
 ------------
