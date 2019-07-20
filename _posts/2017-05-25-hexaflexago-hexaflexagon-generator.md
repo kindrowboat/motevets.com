@@ -8,7 +8,7 @@ categories: projects
 ---
 
 I was originally turned on to [hexaflexagons] while watching a [video by
-vihart]. I've since become a tad obsessed.  My partner, [Katie Conforti], and I
+vihart]. I’ve since become a tad obsessed.  My partner, [Jane Meredith], and I
 created [Hexaflexago], a hexaflexagon template generator.
 
 [![Hexaflexago screenshot](/images/hexaflexago.png)](http://motevets.com/hexaflexago)
@@ -26,20 +26,20 @@ Written with:
 
 
 
-# What's Next?
+# What’s Next?
 
-There are some improvements I'd like to make to Hexaflexago eventually.
+There are some improvements I’d like to make to Hexaflexago eventually.
 - enable users to crop added images *(currently Hexaflexago letterboxes images
   that are not regular hexagons)*
 - add documentation on how to fold the hexaflexagon template
 - support adding six images to make hexahexaflexagons
 
-I'm also currently working with [Littoral Press] to make hexaflexagon business
-cards.  Here's a prototype:
+I’m also currently working with [Littoral Press] to make hexaflexagon business
+cards.  Here’s a prototype:
 
 ![Hexaflexagon business cards](/images/hexaflexagon_business_cards.jpg)
 
-[Katie Conforti]: http://katieconforti.com/
+[Jane Meredith]: https://jane.biz/
 [hexaflexagons]: http://vihart.com/hexaflexagons/
 [video by vihart]: https://www.youtube.com/watch?v=VIVIegSt81k
 [Hexaflexago]: http://motevets.com/hexaflexago
