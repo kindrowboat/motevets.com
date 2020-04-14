@@ -5,13 +5,15 @@ subtitle: Professional Human
 permalink: /resume/
 ---
 
-> Currently an engineering manager at [Pivotal Cloud Foundry]. Interested in [flexagons], continuous learning, recreational programming, and [roller derby][BAD].
+> I believe if you approach a problem as a team bound by kindness and empathy, everything else will fall into place.
 
 Website: | [http://motevets.com](http://motevets.com)
 Email:   | hello@motevets.com
 
+I am continually seeking out opportunities to apply my skills to help the environment and other humans.
+
 Education
----------
+=========
 
 *2014–2015*  
 **GnM; science**; University of Cincinnati (Cincinnati)  
@@ -30,18 +32,24 @@ Education
 *4.0 GPA; Foster Scholarship grant*
 
 Work Experience
----------------
+===============
+
+**Manager of Software Development, Chisel AI.** (2020-present)
+
+Led team of five engineers building machine learning application which extracts insurance data from policies, quotes, and binders to eliminate errors and omissions.
+
+Worked with AWS lambdas, Comprehend, Rekognition, CloudWatch, and Textract. Collaborated with data scientist to propose experiments and analyse results for Natural Language Processing (NLP), Named Entity Recognition (NER), and Computer Visions (CV) / Image Recognition approaches.
 
 **Engineering Manager, Pivotal Software.** (2017–present)
 
-Lead team of seven engineers across multiple projects.
+Led team of seven engineers across multiple projects.
 
 Pair programmed with teams creating cloud platform automation software using
 React.js, Ruby on Rails, BASH, and Go. 
 
 **Founder, KiwiDonut LLP.** (2016–2017)
 
-Lead a team of engineers consulting on Node.js API for integrating a front-end
+Led a team of engineers consulting on Node.js API for integrating a front-end
 with a cloud contract signing service. Created React.js front-end for land
 inventory management application. Taught TDD, agile planning, and extreme
 programming to client engineers and novice engineers.
@@ -78,7 +86,7 @@ installation for Boy Scouts of America summer camp in Bloomington, IN.
 
 
 Technical Experience
---------------------
+====================
 
 <a href="https://xkcd.com/1481/">
   <img
@@ -89,7 +97,8 @@ Technical Experience
   />
 </a>
 
-### Open Source
+Open Source
+-----------
 GitHub [motevets](https://github.com/motevets)
 
 Active contributor to open source projects including:
@@ -100,12 +109,16 @@ Active contributor to open source projects including:
 * [remiprev/her](https://github.com/remiprev/her)
 * Chef (cookbooks for server administration)
 
-### Research
+Research
+--------
 Researched statistical models of pose estimation using Active Shape Models
 implemented in C++/OpenCV at Purdue University.
 
-### Technical Skills
-#### Mastery
+Researched using Recurrent Neural Networks + CUDA to generate novel last names given certain criteria (e.g. starting with consonant, having eight letters, etc.)
+
+Technical Skills
+----------------
+### Mastery
 * Ruby  
   * Rails
   * rspec
@@ -114,28 +127,28 @@ implemented in C++/OpenCV at Purdue University.
   * Node.js
   * jasmine, mocha
   * webpack, babel
+* Go
+* BASH
 * RESTful API design  
 * Linux server administration  
   * Ubuntu
   * CentOS, Debian, Arch
+* Test Driven Development (TDD)
 
-#### Proficient
-* Database programming/administration  
-  * postgreSQL, postGIS, mongoDB, mySQL
-  * Oracle, Microsoft SQL Server
-* Go
-* PHP
-* BASH
-
-#### Familiar
+### Proficient
 * Python
 * Java
 * Kotlin
+* PHP
 * C
 * C++
 * Matlab
+* Database programming/administration  
+  * postgreSQL, postGIS, mongoDB, mySQL
+  * Oracle, Microsoft SQL Server
 
-### Executive Skills
+Executive Skills
+----------------
 * Management
   * mentoring and advocating for under-represented minorities in software engineering
   * helping define career goals and tracking progress
@@ -144,9 +157,12 @@ implemented in C++/OpenCV at Purdue University.
 * Facilitation
   * highly technical, decision oriented meetings
   * no blame, discovery and growth oriented post-incident meetings
+* Agile Planning
+  * practicing, teaching, and facilitating Agile process for software teams
+  * 5+ years experience
 
 Recognitions
-------------
+============
 
 **Eagle Scout Rank (Boy Scouts of America)**  
 Highest rank in the Boy Scouts of America.
@@ -160,7 +176,3 @@ Highest honor given to graduating student in Computer Science program.
 -  Foster Scholarship (Cincinnati Christian University)
 -  Staff Member of the Year (Ransburg Scout Reservation)
 -  Scholar with Distinction (AP College Board)
-
-[flexagons]: http://motevets.com/hexaflexago
-[bad]: http://www.bayareaderby.com/
-[Pivotal Cloud Foundry]: https://pivotal.io/platform
