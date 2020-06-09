@@ -1,6 +1,7 @@
 vendor
 _site
 .sass-cache
+.bundle
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
