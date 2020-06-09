@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://motevets.com" # the base hostname & protocol for your site
 
 author:
-  fullname: Tome Dunlap
+  fullname: Tom Dunlap
   github: motevets
   # twitter: motevets
   # disqus: your_disqus_forum_shortname
