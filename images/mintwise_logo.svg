@@ -23,6 +23,20 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
+       id="marker6689"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6687"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="TriangleOutS"
        style="overflow:visible"
        inkscape:isstock="true">
@@ -137,20 +151,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-134.10793"
-     inkscape:cy="306.55695"
+     inkscape:zoom="1"
+     inkscape:cx="78.044816"
+     inkscape:cy="109.9509"
      inkscape:document-units="mm"
      inkscape:current-layer="g5772"
      showgrid="false"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -175,7 +193,7 @@
     <g
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
        id="sw"
-       transform="matrix(0.26458333,0,0,0.26458333,12.150727,48.952586)">
+       transform="matrix(0.26458333,0,0,0.26458333,145.76963,48.952586)">
       <g
          id="logo/primary"
          transform="translate(10,0.5)">
@@ -184,7 +202,7 @@
           <polygon
              style="stroke:#ffffff;stroke-width:25"
              id="bg"
-             points="0.89361702,175.1066 0.89361702,47.520842 84.44585,0 168,47.520842 168,175.1066 " />
+             points="0.89361702,47.520842 84.44585,0 168,47.520842 168,175.1066 0.89361702,175.1066 " />
           <path
              style="fill:#1cc29f"
              inkscape:connector-curvature="0"
@@ -202,7 +220,7 @@
           <polygon
              style="fill:#ace4d6"
              id="Fill-9"
-             points="83.980698,0.27526873 -0.00023829787,47.82836 83.980698,95.380283 167.96044,47.82836 " />
+             points="83.980698,95.380283 167.96044,47.82836 83.980698,0.27526873 -0.00023829787,47.82836 " />
           <path
              style="fill:#373b3f"
              inkscape:connector-curvature="0"
@@ -301,7 +319,7 @@
     </g>
     <g
        id="g4371"
-       transform="matrix(0.78086208,0,0,0.78086208,-452.67513,63.028336)">
+       transform="matrix(0.78086208,0,0,0.78086208,-556.19328,59.324167)">
       <g
          transform="translate(3.1797752)"
          id="g1165">
@@ -353,16 +371,17 @@
       </g>
     </g>
     <g
-       id="g5772">
+       id="g5772"
+       transform="matrix(0.91213157,0,0,0.91213157,37.493849,7.953608)">
       <path
          inkscape:connector-curvature="0"
          id="path5292"
-         d="M 62.553851,84.172301 H 107.37396"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS)" />
+         d="M 62.553851,84.172301 H 113.98707"
+         style="fill:none;stroke:#000000;stroke-width:3.21370983;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6689)" />
       <circle
          r="5.302053"
          cy="78.851875"
-         cx="87.973244"
+         cx="89.713661"
          id="path5294"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
