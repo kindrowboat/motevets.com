@@ -15,6 +15,14 @@ I am continually seeking out opportunities to apply my skills to help the enviro
 Education
 =========
 
+Degree
+------
+*2009–2012*  
+**BSc, computer science**; Purdue University (Indianapolis)  
+*3.9 GPA; graduated with highest honors; mathematics minor*
+
+Other Education
+---------------
 *2014–2015*  
 **GnM; science**; University of Cincinnati (Cincinnati)  
 *4.0 GPA; biology and chemistry*
@@ -22,10 +30,6 @@ Education
 *2013–2014*  
 **Grad; computer science**; Purdue University (Indianapolis)  
 *teaching assistant; intern director; computer vision and computer graphics*
-
-*2009–2012*  
-**BSc, computer science**; Purdue University (Indianapolis)  
-*3.9 GPA; graduated with highest honors; mathematics minor*
 
 *2007–2008*  
 **Undergrad; ancient Greek**; Cincinnati Christian University (Cincinnati)  
