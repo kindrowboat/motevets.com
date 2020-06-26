@@ -38,55 +38,55 @@ Other Education
 Work Experience
 ===============
 
-**Manager of Software Development, Chisel AI.** (2020-present)
+**Manager of Software Development, Chisel AI.** (2020–2020)
 
-Led team of five engineers building machine learning application which extracts insurance data from policies, quotes, and binders to eliminate errors and omissions.
+Led team of five engineers building machine learning application which extracts insurance data from policies, quotes,
+and binders to eliminate errors and omissions.
 
-Worked with AWS lambdas, Comprehend, Rekognition, CloudWatch, and Textract. Collaborated with data scientist to propose experiments and analyse results for Natural Language Processing (NLP), Named Entity Recognition (NER), and Computer Visions (CV) / Image Recognition approaches.
+Worked with AWS lambdas, Comprehend, Rekognition, CloudWatch, and Textract. Collaborated with data scientist to
+propose experiments and analyse results for Natural Language Processing (NLP), Named Entity Recognition (NER), and
+Computer Visions (CV) / Image Recognition approaches.
 
-**Engineering Manager, Pivotal Software.** (2017–present)
+**Engineering Manager, Pivotal Software.** (2017–2020)
 
 Led team of seven engineers across multiple projects.
 
-Pair programmed with teams creating cloud platform automation software using
-React.js, Ruby on Rails, BASH, and Go. 
+Pair programmed with teams creating cloud platform automation software using React.js, Ruby on Rails, BASH, and Go.
+
+Delivered sophisticate PCI compliant role based access control (RBAC) using OAuth with plugable, bring-your-own
+identity provider: SAML or LDAP.
 
 **Founder, KiwiDonut LLP.** (2016–2017)
 
-Led a team of engineers consulting on Node.js API for integrating a front-end
-with a cloud contract signing service. Created React.js front-end for land
-inventory management application. Taught TDD, agile planning, and extreme
+Led a team of engineers consulting on Node.js API for integrating a front-end with a cloud contract signing service.
+Created React.js front-end for land inventory management application. Taught TDD, agile planning, and extreme
 programming to client engineers and novice engineers.
 
 **Senior Software Engineer, Pivotal Labs.** (2015–2016)
 
-Anchor engineer of the Pivotal Cloud Foundry Billing and Account Management
-team using Ruby on Rails, agile planning, test driven development, extreme
-programming.
+Anchor engineer of the Pivotal Cloud Foundry Billing and Account Management team using Ruby on Rails, agile planning,
+test driven development, extreme programming.
 
 **Independent Contractor, Tom Dunlap LLP.** (2014–2015)
 
-Clients include: CanDo and RevSpring Inc. Programmed Ruby on Rails business
-tier for health care billing and electronic record tracking. Instructed and
-coached test driven development.  Acted as liaison between national offices and
-integrating disparate technology of merged companies in Cincinnati, OH and
-Phoenix, AZ.
+Clients include: CanDo and RevSpring Inc. Programmed Ruby on Rails business tier for health care billing and
+electronic record tracking. Instructed and coached test driven development. Acted as liaison between national offices
+and integrating disparate technology of merged companies in Cincinnati, OH and Phoenix, AZ.
 
 **Software Developer, Roadtrippers.** (2013–2014)
 
-Back end Ruby on Rails and dev-ops developer for successful travel planning
-start-up in Cincinnati.  Orchestrated migration from MongoDB to PostGIS
-including data move, and ODM/ORM code replacement.
+Back end Ruby on Rails and dev-ops developer for successful travel planning start-up in Cincinnati. Orchestrated
+migration from MongoDB to PostGIS including data move, and ODM/ORM code replacement.
 
 **Independent Contractor, Mediafuel.** (2011–2012)
 
-Dev-ops server administration, MySQL database administration, and PHP business
-tier development for advertising company in Fishers, IN.
+Dev-ops server administration, MySQL database administration, and PHP business tier development for advertising
+company in Fishers, IN.
 
 **Technology Consultant, Ransburg Scout Reservation.** (seasonally 2005–2014)
 
-PostgreSQL database administration, network administration, hardware
-installation for Boy Scouts of America summer camp in Bloomington, IN.
+PostgreSQL database administration, network administration, hardware installation for Boy Scouts of America summer
+camp in Bloomington, IN.
 
 
 Technical Experience
@@ -115,14 +115,15 @@ Active contributor to open source projects including:
 
 Research
 --------
-Researched statistical models of pose estimation using Active Shape Models
-implemented in C++/OpenCV at Purdue University.
+Researched statistical models of pose estimation using Active Shape Models implemented in C++/OpenCV at Purdue
+University.
 
-Researched using Recurrent Neural Networks + CUDA to generate novel last names given certain criteria (e.g. starting with consonant, having eight letters, etc.)
+Researched using Recurrent Neural Networks + CUDA to generate novel last names given certain criteria (e.g. starting
+with consonant, having eight letters, etc.)
 
 Technical Skills
 ----------------
-### Mastery
+### Extensive Experience
 * Ruby  
   * Rails
   * rspec
@@ -134,12 +135,26 @@ Technical Skills
 * Go
 * BASH
 * RESTful API design  
+  * OpenAPI Specification (formerly Swagger)
 * Linux server administration  
   * Ubuntu
   * CentOS, Debian, Arch
+* SSO
+  * OAuth
+  * Okta
+  * UAA
 * Test Driven Development (TDD)
+* Databases: programming, cloud administration, optimization
+  * postgreSQL, postGIS, mongoDB, mySQL
+* Cloud/distributed software deployment
+  * AWS
+  * Google Cloud
+  * Docker/containers
+  * Azure
+  * Cloud Foundry
 
 ### Proficient
+* Kubernetes
 * Python
 * Java
 * Kotlin
@@ -147,9 +162,6 @@ Technical Skills
 * C
 * C++
 * Matlab
-* Database programming/administration  
-  * postgreSQL, postGIS, mongoDB, mySQL
-  * Oracle, Microsoft SQL Server
 
 Executive Skills
 ----------------
