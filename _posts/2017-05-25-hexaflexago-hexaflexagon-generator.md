@@ -11,7 +11,7 @@ I was originally turned on to [hexaflexagons] while watching a [video by
 vihart]. I’ve since become a tad obsessed.  My partner, [Jane Meredith], and I
 created [Hexaflexago], a hexaflexagon template generator.
 
-[![Hexaflexago screenshot](/images/hexaflexago.png)](http://motevets.com/hexaflexago)
+[![Hexaflexago screenshot](/images/hexaflexago.png)](http://hexaflexago.motevets.com/)
 
 # Features
 - Generates a printable trihexaflexagon template
@@ -23,8 +23,6 @@ created [Hexaflexago], a hexaflexagon template generator.
 Written with:
 - React.js using [create-react-app]
 - the vanilla [SVG standard]
-
-
 
 # What’s Next?
 
@@ -42,7 +40,7 @@ cards.  Here’s a prototype:
 [Jane Meredith]: https://jane.biz/
 [hexaflexagons]: http://vihart.com/hexaflexagons/
 [video by vihart]: https://www.youtube.com/watch?v=VIVIegSt81k
-[Hexaflexago]: http://motevets.com/hexaflexago
+[Hexaflexago]: http://hexaflexago.motevets.com/
 [create-react-app]: https://github.com/facebook/create-react-app
 [Littoral Press]: http://littoralpress.com/
 [SVG standard]: https://developer.mozilla.org/en-US/docs/Web/SVG
