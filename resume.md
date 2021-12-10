@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Tom Dunlap
+title: Stef Dunlap
 subtitle: Professional Human
 permalink: /resume/
 ---
 
 > I believe if you approach a problem as a team bound by kindness and empathy, everything else will fall into place.
 
-Website: | [motevets.com](https://motevets.com)
-Email:   | hello@motevets.com
-Github:  | [github.com/motevets](https://github.com/motevets)
+Pronouns: | she/her
+Website:  | [motevets.com](https://motevets.com)
+Email:    | stef@kindrobot.ca
+Github:   | [github.com/motevets](https://github.com/motevets)
 
 I am continually seeking out opportunities to apply my skills to help the environment and other humans.
 
